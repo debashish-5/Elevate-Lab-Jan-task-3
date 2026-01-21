@@ -101,3 +101,23 @@ pip install -r requirements.txt
 
 # Run analysis
 python iris_analysis.py
+
+```
+<!-- ==================== Tech Stack ==================== -->
+## 🛠 Tech Stack
+
+Python 3.11
+
+Pandas – Data manipulation & cleaning
+
+Matplotlib / Seaborn – Visualization & box plots
+
+Plotly – 3D interactive scatter plots
+
+<!-- ==================== Contributors ==================== -->
+## 👥 Contributors
+<p align="center"> <a href="https://github.com/username"> <img src="https://avatars.githubusercontent.com/u/000?v=4&s=100" width="100px;" alt="Debashish"/> </a> </p>
+
+Made with ❤️ by Debashish Parida
+
+<!-- ==================== Footer Animation ==================== --> <p align="center"> <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="600"/> </p> ```
