@@ -121,4 +121,3 @@ Plotly – 3D interactive scatter plots
 Made with ❤️ by Debashish Parida
 
 <!-- ==================== Footer Animation ==================== --> <p align="center"> <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="600"/> </p> ```
-
